@@ -9,4 +9,5 @@
 **Level:** Freshman  
 **Position Title:** Student  
 **Course Webpage:** [IDS2024S](www.cdslab.org/IDS2024S)   
-**Photo:**  ![A photo of Malaika](https://images.pexels.com/photos/3783385/pexels-photo-3783385.jpeg?cs=srgb&dl=pexels-prashant-gautam-3783385.jpg&fm=jpg)  
+**Photo:**  ![A photo of Malaika](close-up-of-blossoming-rose-flower-royalty-free-image-1580853844.jpg)  
+
