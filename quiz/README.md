@@ -1,1 +1,1 @@
-This folder contains all my quizs.
+This folder contains all my quizzes.
