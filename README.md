@@ -25,3 +25,4 @@ Amir Shahmoradi
 shahmoradi@utexas.edu  
 Assistant Professor of Data Science  
 University of Texas at Arlington  
+This is a message form laptop command line.
