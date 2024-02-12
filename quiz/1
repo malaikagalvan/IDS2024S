@@ -1,6 +1,6 @@
-2. markdown
-3. no
-4. yes
+2. markdown  
+3. no  
+4. yes  
 5. it stores all git files
 6. change directory
 7. formatted listing within hidden files
@@ -25,4 +25,29 @@ f. It saves project history
 19. you use *
 20. git commit --all
 21. . Means you go back to your previous file and. And .. means you go back two previous files.
+
+Creating git project:
+3. pwd
+/c/Users/laika
+4.mkdir testdir
+5.cd testdir
+6. No, because it has not been in the git working directory. The ls -a lists all files.
+7. To make it a git project you do git init
+8. vim is a text editing environment. It allows us to edit files. You save the contents by hitting escape and then pressing ":" and wq.  
+9. I see the text I put in the file when I used vim. 
+cat README.md
+This is a README.md file for the test git project of quiz1
+10. git status. fatal: not a git repository (or any of the parent directories): .git
+11. git init. "Initialized empty Git repository in C:/Users/laika/testdir/.git/". git add --all. "warning: in the working copy of 'README.md', LF will be replaced by CRLF the net time Git touches it".
+12.
+git status
+On branch master
+No commits yet
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   README.me
+13. I changed my directory back to my home directory and deleted the testdir file. -rf deletes a file.
+
+
+
 
