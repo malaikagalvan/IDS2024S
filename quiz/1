@@ -1,1 +1,28 @@
+2. markdown
+3. no
+4. yes
+5. it stores all git files
+6. change directory
+7. formatted listing within hidden files
+8. present directory
+9.  working directory: when user modifies a file but the file changes are not tracked
+ staging area: commits it permanently to the repository
+.git repository: the files are now permanent
+10. records changes to a file
+11. a. Each person has a copy of the central database on their local storage device
+b. Every copy is a full backup of the project
+c. Each team member has the most recent copy of the project
+d. If the server fails the team members still have a copy of the project on their device.
+e. It is the most popular so many people will know how to use it
+f. It saves project history
+12. distributed, centralized, local
+13. git is where projects are stored and GitHub is where collaborators can view the projects.
+14. git status: lists all new or  modified files to be committed
+15. git push --all: uploads all local branch to commit to github
+16. git pull: downloads bookmark history and incorporates changes
+17. markdown: styles text on the web
+18. you use **
+19. you use *
+20. git commit --all
+21. . Means you go back to your previous file and. And .. means you go back two previous files.
 
