@@ -21,8 +21,7 @@ This repository contains my homework, quizzes, and virtually every effort that I
 > Thomas Edison  
 
 For questions and troubleshooting, contact:  
-Amir Shahmoradi  
-shahmoradi@utexas.edu  
-Assistant Professor of Data Science  
+Malaika Galvan  
+mxg8844@mavs.uta.edu  
 University of Texas at Arlington  
 This is a message form laptop command line.
