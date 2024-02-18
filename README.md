@@ -8,7 +8,7 @@
 **University:** UTA  
 **Level:** Freshman  
 **Position Title:** Student  
-**Course Webpage:** [IDS2024S](www.cdslab.org/IDS2024S)   
+**Course Webpage:** [IDS2024S](https://www.cdslab.org/IDS2024S/)   
 **Photo:**  ![A photo of Malaika](close-up-of-blossoming-rose-flower-royalty-free-image-1580853844.jpg)  
 
 This repository contains my homework, quizzes, and virtually every effort that I have made for <course name>. The structure of the project is the following:
@@ -24,4 +24,4 @@ For questions and troubleshooting, contact:
 Malaika Galvan  
 mxg8844@mavs.uta.edu  
 University of Texas at Arlington  
-This is a message form laptop command line.
+This is a message from laptop command line.
