@@ -1,4 +1,4 @@
-1.3) lisp: 
+
  
 2. Electronic Numerical Integrator and Computer
 3. Because they are easy to represent electronically
