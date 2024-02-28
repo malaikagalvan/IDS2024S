@@ -10,4 +10,8 @@
    b) It is around 70 decades old
 9. Assembly
 10. Fortran, C, are C++ second generation. MATLAB, Python, and R are fourth generation.
-11. we wont do 20? debugging thing
+11. BCPL
+12. C
+13. MATLAB: Fortran Python: ABC
+14. n
+15. 
