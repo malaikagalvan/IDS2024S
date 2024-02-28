@@ -16,8 +16,16 @@
 14. n
 15. A bit
 16. Internal register is faster than RAM
-17. 100 ns
-18. They control or amplify an electric current.
-19. The more transistors you add to computers the smaller the transistors get. This will cause the transistors to not function properly in the circuits.
-20. Fetch, Decode, Execute
-21. 
+17.
+18. 100 ns
+19. They control or amplify an electric current.
+20. The more transistors you add to computers the smaller the transistors get. This will cause the transistors to not function properly in the circuits.
+21. Fetch, Decode, Execute
+22. Yes, if the slower computer has better memory.
+23. Memory access because modern computers have a hierarchal memory structure with various sizes and speeds.
+24. Dennard scaling is the same thing as MOSFET scaling. Dennard/MOSFET scaling implies that a CPU will become faster with more transistors added to an IC. Moore's law is a prediction that the number of transistors will double every two years.
+25. 1) 64
+    2) 2080
+    3) half a pound
+ 26. 1) 18,000,000,000,000,000,000
+     2) 
