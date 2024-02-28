@@ -14,4 +14,10 @@
 12. C
 13. MATLAB: Fortran Python: ABC
 14. n
-15. 
+15. A bit
+16. Internal register is faster than RAM
+17. 100 ns
+18. They control or amplify an electric current.
+19. The more transistors you add to computers the smaller the transistors get. This will cause the transistors to not function properly in the circuits.
+20. Fetch, Decode, Execute
+21. 
