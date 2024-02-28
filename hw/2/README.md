@@ -1,6 +1,7 @@
- 1.  
+1.3) lisp: 
+ 
 2. Electronic Numerical Integrator and Computer
-3. n
+3. Because they are easy to represent electronically
 4. CPU
 5. Hard Drive
 6. A bit
@@ -13,10 +14,10 @@
 11. BCPL
 12. C
 13. MATLAB: Fortran Python: ABC
-14. n
+14. Registers
 15. A bit
 16. Internal register is faster than RAM
-17.
+17. 100 ns
 18. 100 ns
 19. They control or amplify an electric current.
 20. The more transistors you add to computers the smaller the transistors get. This will cause the transistors to not function properly in the circuits.
@@ -28,4 +29,7 @@
     2) 2080
     3) half a pound
  26. 1) 18,000,000,000,000,000,000
-     2) 
+     2) 9.22*10^18
+     3) 2.57*10^15 pounds
+     4) 1.285*10^3 years
+    
