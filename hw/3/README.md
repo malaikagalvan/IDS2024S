@@ -3,7 +3,7 @@
 3. Deductive reasoning: An apple is a fruit because it contains seeds.
    Plausible reasoning: Product sales rose because we lowered the price.
 4. Its rainy because its cloudy
-5. Deductive reasoning. If an alarm is ringing in a jewelry store with a broken window, then the man carrying a bag of jewelry out the window is the suspect.
+5. Deductive reasoning. If an alarm is ringing in a jewelry store with a broken window, then the man carrying a bag of jewelry out the window is the suspect. If a then b then c
 6. 
 13. a) bit  
     b) No, we need to measure relative to something.  
