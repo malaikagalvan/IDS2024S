@@ -9,7 +9,7 @@
 **Level:** Freshman  
 **Position Title:** Student  
 **Course Webpage:** [IDS2024S](https://www.cdslab.org/IDS2024S/)   
-**Photo:**  ![A photo of Malaika](close-up-of-blossoming-rose-flower-royalty-free-image-1580853844.jpg)  
+**Photo:**  ![A photo of Malaika](https://i1.wp.com/www.pixelatedtales.com/wp-content/uploads/2021/12/mammatus-clouds-at-sunset-sydney-scaled.jpg?fit=2560%2C1920&ssl=1)  
 
 This repository contains my homework, quizzes, and virtually every effort that I have made for <course name>. The structure of the project is the following:
 
