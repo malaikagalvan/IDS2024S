@@ -24,3 +24,5 @@
        1. 2  
        2. 4  
        3. 8  
+    **Image:**
+![binary trees](https://github.com/malaikagalvan/IDS2024S/blob/main/hw/3/images/DATA-HMK3-12-binarytrees.jpg?raw=true)
