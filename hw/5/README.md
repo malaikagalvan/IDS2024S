@@ -11,7 +11,7 @@
   + Temperature column: Quantitive, Numerical, Continous, Unordered.
 7.  Coordinate axes
 8.  The Robinson map of the globe depicts the earth's angular and area distortions
-9.  The black or red one
+9.  All of them are valid
 10.  A data set that can be logically joined from either end of the scale
 11.
   + Qualitative color scale: used to distguisdh discrete items or groups that do not have an intrinsic order.
