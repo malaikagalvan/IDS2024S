@@ -19,5 +19,12 @@
   + Diverging color scale: used to visualize the deviation of data values in one or two directions relative to a neutral midpoint.
   + Accent color scales: used as a tool to highlight specific elements in data
 12. The graph has two different units so the grid sizes should be different
-13. 
+13. The one with purple to green
+14. -
+15. -
+16. -
+17. Classical, Bayesian, Frequentist, Propensity
+18. -
+19. one
+20. 
     
