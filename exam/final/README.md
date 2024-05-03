@@ -1,5 +1,5 @@
 1.
-2. Aesthetics are map data values used to represent data in graphs. Continous data and Discrete data.
+2. Aesthetics are data visualizations used to represent data in graphs. Continous data and Discrete data.
 3. The purple to green palette
 4. a) Qualitative
   b) Sequential
