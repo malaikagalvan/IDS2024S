@@ -1,4 +1,4 @@
-1. All data visualizations map data values into quantifiable features of the resulting graphic  
+1. Data visualizations used to represent data. Shape, Color, line width, size.
 2. This that can represent data continous data and those that can not  
 3. Factors: variables holding qualitative data. Levels: different categories
 4. Continous data: integers. Discrete data: number of people in a classroom
@@ -21,4 +21,4 @@
     d) Accent color scale  
 16. Accent color scale
 17. The bar graph should not be vertical it should be horizantal
-18. The temperature will increase. 
+18. The temperature will increase. 1 Celsius
