@@ -20,7 +20,7 @@
   + Accent color scales: used as a tool to highlight specific elements in data
 12. The graph starts before zero
 13. The one with purple to green
-14. I put the graph in a seperate folder. Honolulu has the has the hottest average temperature.---
+14. I put the graph in a seperate folder. Honolulu has the has the hottest average temperature. Honolulu has less fluctuating temparatures.
 15. -
 16. Visualization: It looks like the population is zero. Visualization Transformation: the population apppears to be at 5.
 17. 
