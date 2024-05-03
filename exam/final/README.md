@@ -25,4 +25,4 @@
 18. They have the same truth value
 19. in other folder
 20. Yes
-21. 3297. 99 times 33
+21. I got 3267. I did 99 times 33
