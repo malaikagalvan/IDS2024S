@@ -19,4 +19,6 @@
     b) Sequential color scale  
     c) Diverging color scale  
     d) Accent color scale  
-16. 
+16. Accent color scale
+17. The bar graph should not be vertical it should be horizantal
+18. The temperature will increase. 
